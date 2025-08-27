@@ -99,7 +99,7 @@ export function Footer() {
         </div>
 
         <div className="border-t mt-8 pt-8 text-center">
-          <p className="text-sm text-muted-foreground">© 2024 QuickTravel.com.pk. All rights reserved.</p>
+          <p className="text-sm text-muted-foreground">© 2024 QuickTravel. All rights reserved. Zenovate Digital</p>
         </div>
       </div>
     </footer>
